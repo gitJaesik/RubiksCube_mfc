@@ -1,0 +1,9 @@
+Debug/
+/**/Debug/**
+bin/
+/**/bin/**
+obj/
+/**/obj/**
+Release/
+/**/Release/**
+
